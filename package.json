@@ -1,0 +1,12 @@
+{
+  "name": "react-tree-logger",
+  "version": "1.0.0",
+  "description": "React tree logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abu Bakkar Siddique",
+  "license": "MIT"
+}
